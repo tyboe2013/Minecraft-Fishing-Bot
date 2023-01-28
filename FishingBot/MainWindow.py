@@ -38,6 +38,7 @@ class Runnable(QRunnable):
                 functions.autofish(0.01, 0, 5)
                 i += 1
                 fish_count += 1
+                print(fish_count)
             else:
                 print("Inactive")
                 break
