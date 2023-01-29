@@ -14,7 +14,7 @@ A Simple Fishing Bot
 
 
 
-1: Download the .py files
+1: Download the Fishing Bot
 
 2: Now use pip install -r requirements.txt to install all the dependencies
 
