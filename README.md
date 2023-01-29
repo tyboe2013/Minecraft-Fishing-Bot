@@ -16,16 +16,18 @@ A Simple Fishing Bot
 
 1: Download either the .exe or the .py files
 
-2: Run GUI.py or GUI.exe
+2: If you downloaded the .py files, Now use pip install -r requirements.txt to install all the dependencies
+
+3: Run GUI.py or GUI.exe
 
 ![App Screenshot](https://i.gyazo.com/b6711f7cb763f45fdf97dd4583c6f513.png)
 
-3: Type the Title of your Minecraft in the input under Minecraft Title and Press Enter
+4: Type the Title of your Minecraft in the input under Minecraft Title and Press Enter
 
 ![App Screenshot](https://i.gyazo.com/4c19e338f3dd8adf0a0c1aca9754fed9.gif)
 
-4: Now you need to setup your fishing spot, For consistent results you want the fishing bobber to be within this black circle
+5: Now you need to set up your fishing spot, For consistent results you want the fishing bobber to be within this black circle
 
 ![App Screenshot](https://i.gyazo.com/5d5b20046350d4a6ca516d373d29879c.png)
 
-5: Have Fun and Good Luck Fishing
+6: Press Start and it gives you 8 seconds to get into Minecraft, 
