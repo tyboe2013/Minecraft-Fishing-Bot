@@ -31,3 +31,7 @@ A Simple Fishing Bot
 ![App Screenshot](https://i.gyazo.com/5d5b20046350d4a6ca516d373d29879c.png)
 
 6: Press Start and it gives you 8 seconds to get into Minecraft, 
+
+# Credits 
+Found this post about making a minecraft bot which helped a lot in making this.
+https://medium.com/geekculture/lets-go-fishing-writing-a-minecraft-1-17-auto-fishing-bot-in-python-opencv-and-pyautogui-6bfb5d539fcf
