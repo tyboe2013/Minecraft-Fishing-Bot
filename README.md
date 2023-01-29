@@ -15,6 +15,8 @@ A Simple Fishing Bot
 
 
 1: Download either the .exe or the .py files
+https://drive.google.com/file/d/1KEiOM7nHKtaRtvCQZWNqpPLoP-07YK8M/view?usp=sharing 
+Link for .exe
 
 2: If you downloaded the .py files, Now use pip install -r requirements.txt to install all the dependencies
 
