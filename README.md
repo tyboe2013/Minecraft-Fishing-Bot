@@ -14,13 +14,11 @@ A Simple Fishing Bot
 
 
 
-1: Download either the .exe or the .py files
-https://drive.google.com/file/d/1KEiOM7nHKtaRtvCQZWNqpPLoP-07YK8M/view?usp=sharing 
-Link for .exe
+1: Download either the .py files
 
 2: If you downloaded the .py files, Now use pip install -r requirements.txt to install all the dependencies
 
-3: Run GUI.py or GUI.exe
+3: Run GUI.py
 
 ![App Screenshot](https://i.gyazo.com/b6711f7cb763f45fdf97dd4583c6f513.png)
 
