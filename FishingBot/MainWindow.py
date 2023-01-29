@@ -270,7 +270,7 @@ class Ui_Title(object):
     # Opens Readme
     def help_buttonclicked(self):
         # Opens help website
-        webbrowser.open('http://google.com', new=2)
+        webbrowser.open('https://github.com/tyboe2013/Minecraft-Fishing-Bot/blob/master/README.md', new=2)
 
     # Tests Main Script with few catches
     def test_buttonclicked(self):
