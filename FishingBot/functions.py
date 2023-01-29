@@ -8,6 +8,7 @@ import mouse
 
 
 def manage_window(title):
+    # Resizes Minecraft Window
     title.resizeTo(800, 600)
     title.moveTo(0, 0)
 
@@ -70,31 +71,6 @@ def autofish(tick_interval, threshold, magnification):
             break
     pyautogui.rightClick()
     sleep(1)
-
-
-def autofish_test(tick_interval, threshold, magnification):
-    pyautogui.rightClick()  # cast the fishing line
-    sleep(2)
-    img = take_capture(magnification)  # take initial capture
-    # Once there are no black pixels in the capture:
-    #     np.sum(img == 0) is looking for black pixels
-    #     > threshold is the number of those pixels (0)
-    # exit the loop and reel in the catch (pyautogui.rightClick()).
-    # Finally, wait a second and leave the auto-fish method.
-    # This will cast, wait and catch one interval. See main method
-    # for looping.
-    while np.sum(img == 0) > threshold:
-        print("ready")
-        img = take_capture(magnification)
-
-        sleep(tick_interval)
-        if cv2.waitKey(25) & 0xFF == ord('q'):
-            print("destroy")
-            cv2.destroyAllWindows()
-            break
-    pyautogui.rightClick()
-    sleep(1)
-
 
 
 if __name__ == "__main__":

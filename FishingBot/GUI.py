@@ -2,9 +2,6 @@ import sys
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow
 )
-
-from PyQt5.uic import loadUi
-
 from MainWindow import Ui_Title
 
 
