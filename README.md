@@ -14,9 +14,9 @@ A Simple Fishing Bot
 
 
 
-1: Download either the .py files
+1: Download the .py files
 
-2: If you downloaded the .py files, Now use pip install -r requirements.txt to install all the dependencies
+2: Now use pip install -r requirements.txt to install all the dependencies
 
 3: Run GUI.py
 
